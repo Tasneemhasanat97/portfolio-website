@@ -45,13 +45,13 @@ params:
   profileMode:
     enabled: true
     title: "Tasneem Hasanat"
-    subtitle: Full Stack Developer
+    subtitle: Full Stack Developer & Magician
     imageUrl: "home/image.jpeg"
     imageWidth: 250
     imageHeight: 250
-    # buttons:
-    #   - name: Resume
-    #     url: "https://drive.google.com/file/d/15bupi_Ez5GhhNa2LIT7an1Qxg-0XKYH2/view"
+    buttons:
+       - name: Resume
+         url: "https://docs.google.com/document/d/1p-i8fW43f-D1ghAH1L6AOVhWvpNfDz8w/edit"
 
   # List View
   hideDescriptionInList: false
@@ -63,11 +63,11 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:tasneemhasanat97@icloud.com"
     - name: "linkedin"
       url: "linkedin.com/in/tasneemhasanat97"
     - name: "github"
-      url: "https://github.com/arkalim"
+      url: "https://github.com/tasneemhasanat97"
     - name: "youtube"
       url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
