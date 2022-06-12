@@ -49,9 +49,9 @@ params:
     imageUrl: "home/image.jpeg"
     imageWidth: 250
     imageHeight: 250
-    buttons:
-       - name: Resume
-         url: "https://docs.google.com/document/d/1p-i8fW43f-D1ghAH1L6AOVhWvpNfDz8w/edit"
+    #buttons:
+    #  - name: Resume
+    #   url: "https://docs.google.com/document/d/1p-i8fW43f-D1ghAH1L6AOVhWvpNfDz8w/edit"
 
   # List View
   hideDescriptionInList: false
@@ -69,9 +69,9 @@ params:
     - name: "github"
       url: "https://github.com/tasneemhasanat97"
     - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://www.youtube.com/channel/UCWfuGJdMaEkL3SHwyAAvweA"
     - name: "cv"
-      url: "https://drive.google.com/file/d/15bupi_Ez5GhhNa2LIT7an1Qxg-0XKYH2/view"
+      url: "https://docs.google.com/document/d/1p-i8fW43f-D1ghAH1L6AOVhWvpNfDz8w/edit"
 
   # text search
   fuseOpts:
