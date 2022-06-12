@@ -15,4 +15,4 @@ weight: 301
 
 These automations and integrations proved to eliminate the initial resistance, therefore significantly increasing the adoption of BuyerAssist platform among our clients.
 
-![](/experience/buyerassist/img1.jpeg#center)
+![](/internships/buyerassist/img1.jpeg#center)
