@@ -45,8 +45,9 @@ params:
   profileMode:
     enabled: true
     title: "Tasneem Hasanat"
-    subtitle: Full Stack Developer & Magician
+    subtitle: "Full Stack Developer"
     imageUrl: "home/image.jpeg"
+    imageTitle: "Magician"
     imageWidth: 250
     imageHeight: 250
     #buttons:
