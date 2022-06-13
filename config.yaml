@@ -70,7 +70,7 @@ params:
     - name: "email"
       url: "mailto:tasneemhasanat97@icloud.com"
     - name: "linkedin"
-      url: "linkedin.com/in/tasneemhasanat97"
+      url: "https://www.linkedin.com/in/tasneemhasanat97"
     - name: "github"
       url: "https://github.com/tasneemhasanat97"
     - name: "youtube"
