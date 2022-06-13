@@ -76,7 +76,7 @@ params:
     - name: "youtube"
       url: "https://www.youtube.com/channel/UCWfuGJdMaEkL3SHwyAAvweA"
     - name: "cv"
-      url: "https://docs.google.com/document/d/1p-i8fW43f-D1ghAH1L6AOVhWvpNfDz8w/edit"
+      url: "https://docs.google.com/document/d/1Gjh1rEVGpRT1bqssKGq_Iu54Ibbk2B7nI_v_5bsMums/edit?usp=sharing"
 
   # text search
   fuseOpts:
