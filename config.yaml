@@ -49,7 +49,12 @@ params:
   profileMode:
     enabled: true
     title: "Tasneem Hasanat"
-    subtitle: "Full Stack Developer"
+    subtitle: |+
+              **Full Stack Developer**
+
+              **Composer**
+
+              **Chef**
     imageUrl: "home/image.jpeg"
     imageTitle: "Magician"
     imageWidth: 250
