@@ -12,13 +12,18 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
 editPost:
-    URL: "https://github.com/Tasneemhasanat97/portfolio-website/content"
+    URL: "https://github.com/Tasneemhasanat97/portfolio-website/blob/test/content/blog/second-blog.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
 # The 3 Day Countdown
 Well one of the most overlooked areas when it comes to maximizing proficiency comes down to data management. I started out this website/blog in order to keep a timeline for my career progress as I learn more about computer science.
+
+https://github.com/adityatelange/hugo-PaperMod/blob/exampleSite/content/posts/papermod/papermod-faq.md
+
+https://github.com/Tasneemhasanat97/portfolio-website.git
+
 
 I have a very cluttered email address box, I also have 2 million windows open on my personal computer. Simply put it was hindering my ability to do alot of stuff cheif amongst which was not being able to track my internship applications from diffrent companies. 
 
