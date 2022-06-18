@@ -12,10 +12,6 @@ cover:
     image: "/blog/second-blog/clean.png" # image path/url
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-editPost:
-    URL: "https://github.com/Tasneemhasanat97/portfolio-website/blob/main/content/blog/second-blog.md"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 # The 3 Day Countdown
