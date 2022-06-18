@@ -6,13 +6,14 @@ weight: 99
 tags: ["clean", "wipe", "initiative", "learning", "maximize", "management", "timeline", "blog", "clutter", "function", "suggestion", "publication"]
 author: "T. Hasanat"
 # author: ["Me", "You"] # multiple authors
+# commit and wait changes for git link in suggestions
 draft: false
 cover:
     image: "/blog/second-blog/clean.png" # image path/url
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
 editPost:
-    URL: "https://github.com/Tasneemhasanat97/portfolio-website"
+    URL: "https://github.com/Tasneemhasanat97/portfolio-website/blob/main/content/blog/second-blog.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
@@ -30,3 +31,4 @@ I have a very cluttered email address box, I also have 2 million windows open on
 Well in simple terms it just means to get all my online accounts back to their ship-shape and bristol fashion state from before I had the audacity to sign up for every online mailing list I can put my hand on 🫠
 
 So in that regard not much in terms of updates, The website is still under construction so it will get better as I learn more. I recently added a function to my blog for future suggestions along with the search tag function which I will oversee for next publication!
+
