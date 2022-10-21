@@ -35,6 +35,10 @@ menu:
     name: Tags
     url: /tags
     weight: 60
+  - identifier: gallery
+    name: Gallery
+    url: /gallery
+    weight: 41
 
 params:
   # theme
@@ -59,6 +63,8 @@ params:
     title: "Tasneem Hasanat"
     subtitle: |+
               **Full Stack Developer**
+
+              **Photographer**
 
               **Composer**
 
