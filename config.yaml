@@ -40,6 +40,8 @@ params:
   # theme
   showToc: true
   TocOpen: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
@@ -89,6 +91,13 @@ params:
     - name: "cv"
       url: "https://docs.google.com/document/d/1RZyDql6jPiF3JUw279cH2YzDe684NnZL"
 
+  assets:
+    favicon: "/favicon/favicon.ico"
+    favicon16x16:  "/favicon/favicon-16x16.png"
+    favicon32x32:  "/favicon/favicon-32x32.png"
+    apple_touch_icon:  "/favicon/apple-touch-icon.png"
+    safari_pinned_tab:  "/favicon/safari-pinned-tab.svg"
+
   # text search
   fuseOpts:
     isCaseSensitive: false
@@ -98,6 +107,9 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+  
+
 
 # for search using Fuse.js
 outputs:

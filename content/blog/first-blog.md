@@ -1,11 +1,12 @@
 ---
 title: "THQio launched"
+ShowReadingTime: true
 editPost:
     URL: "mailto:tasneemhasanat97@icloud.com?subject=Suggestion"
     Text: "Suggest changes" # edit text
     appendFilePath: true # append file path to edit link
 description: "How to envision a portfolio"
-dateString: "MAY 2022 - JUNE 2022 "
+dateString: "MAY 2ND 2022 "
 weight: 100
 tags: ["Hash", "Blog", "First", "Website", "Project",]
 author: "T. Hasanat"

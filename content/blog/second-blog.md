@@ -1,7 +1,8 @@
 ---
 title: "Clean Wipe Initiative"
+ShowReadingTime: true
 description: "How to maximize efficient learning"
-dateString: "JUNE 2022  "
+dateString: "JUNE 5TH 2022  "
 weight: 99
 tags: ["clean", "wipe", "initiative", "learning", "maximize", "management", "timeline", "blog", "clutter", "function", "suggestion", "publication"]
 author: "T. Hasanat"

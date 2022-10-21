@@ -5,7 +5,8 @@ editPost:
     Text: "Suggest changes" # edit text
     appendFilePath: true # append file path to edit link
 description: "Flixy is an app that allows users to browse movies from the The Movie Database API."
-dateString: "AUG 2022 - SEPT 2022 "
+dateString: "SEPT 21TH 2022 "
+ShowReadingTime: true
 weight: 99
 tags: ["flixy", "ios", "swift", "xcode", "movies"]
 author: "T. Hasanat"
@@ -95,4 +96,4 @@ Dark mode implementation done via customizing story-boards
     </table>
 </div>
 
-### 🔗 [Github](https://github.com/Tasneemhasanat97/Flixy-ios-app-movie-nowplaying)
+#### 🔗 [Github](https://github.com/Tasneemhasanat97/Flixy-ios-app-movie-nowplaying)

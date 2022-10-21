@@ -37,3 +37,8 @@ Event Coordinator: Umme Habiba
 Social Media Coordinator: Leslie Saquisili
 
 ![](/experience/code-resolve/coderesolveLogo.png)
+
+
+#### 🔗 [Github](https://github.com/Coderesolve)
+#### 🔗 [Website](https://rsqc.github.io)
+#### 🔗 [Instagram](https://instagram.com/qc_resolve?igshid=YmMyMTA2M2Y=)
