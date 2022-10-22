@@ -5,7 +5,7 @@ editPost:
     Text: "Suggest changes" # edit text
     appendFilePath: true # append file path to edit link
 description: "Flixy is an app that allows users to browse movies from the The Movie Database API."
-dateString: "SEPT 21TH 2022 "
+dateString: "SEPT 2022 "
 ShowReadingTime: true
 weight: 99
 tags: ["flixy", "ios", "swift", "xcode", "movies"]

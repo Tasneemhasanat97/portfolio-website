@@ -1,5 +1,5 @@
 ---
-title: "App Design"
+title: "App Design 📲 "
 weight: 100
 tags: ["art", "ios", "swift", "xcode", "app design"]
 author: "T. Hasanat"
@@ -12,9 +12,9 @@ editPost:
     Text: "Suggest changes" # edit text
     appendFilePath: true # append file path to edit link
 ---
-## iOS Wireframes:
+# iOS Wireframes:
 
-#### Library Group Project
+### Library Group Project:
 
 <figure>
     <img src="/gallery/app-design/ios-wireframe/library-app/handDrawn.JPG" height ="500" width ="600"/>

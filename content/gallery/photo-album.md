@@ -1,5 +1,5 @@
 ---
-title: "Photography Album"
+title: "Photography Album 📷 "
 weight: 99
 tags: ["art", "ios", "swift", "xcode", "photography", "illustrations"]
 author: "T. Hasanat"

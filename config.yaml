@@ -8,35 +8,35 @@ paginate: 50
 menu:
   main:
   - identifier: home
-    name: Home Page
+    name: Home Page 🏡
     url: /
     weight: 10
   - identifier: blog
-    name: Blog
+    name: Blog 📃
     url: /blog
     weight: 20
   - identifier: projects
-    name: Projects
+    name: Projects 💻
     url: /projects
     weight: 30
   - identifier: experience
-    name: Experience
+    name: Experience 👔
     url: /experience
     weight: 40
-  - identifier: Internships
-    name: Internships
-    url: /internships
+  # - identifier: Internships
+  #   name: Internships
+  #   url: /internships
     weight: 45
   - identifier: search
-    name: Search
+    name: Search 🔍
     url: /search
     weight: 50
   - identifier: tags
-    name: Tags
+    name: Tags 🏷️
     url: /tags
     weight: 60
   - identifier: gallery
-    name: Gallery
+    name: Gallery 🖼️
     url: /gallery
     weight: 41
 
